@@ -69,4 +69,7 @@ A simple **Voting System** built using Python. This beginner-friendly project al
 - Add admin login
 - Generate a final result report
 
+  ## Author
+  ** Siddhi Deshmukh **
+
 
